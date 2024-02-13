@@ -23,6 +23,34 @@ const data = [
       },
     ],
   },
+    {
+    id: uuidv4(),
+    title: " 📝 In Progress Task",
+    task: [
+      {
+        id: uuidv4(),
+        task_title: "task 5",
+      },
+      {
+        id: uuidv4(),
+        task_title: "task 6",
+      },
+    ],
+  },
+    {
+    id: uuidv4(),
+    title: " 📝 In Progress Task",
+    task: [
+      {
+        id: uuidv4(),
+        task_title: "task 5",
+      },
+      {
+        id: uuidv4(),
+        task_title: "task 6",
+      },
+    ],
+  },
   {
     id: uuidv4(),
     title: " 📝 In Progress Task",
